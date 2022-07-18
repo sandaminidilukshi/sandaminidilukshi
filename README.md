@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Chamuditha Senanayake.</h1>
+<h1 align="center">Hi 👋, I'm Sandamini Dilukshi.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I'm Chamuditha Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
+<h3 align="center">I'm Sandamini Dilukshi, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
 
 
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **UI/UX designer**
 
-- 📫 How to reach me **chamudithacbs@gmail.com**
+- 📫 How to reach me **sandaminidilukshi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chamuditha-senanayake-7a6266214/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandamini-herath-a00152214/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it19966922" height="30" width="40" /></a>
 </p>
 
