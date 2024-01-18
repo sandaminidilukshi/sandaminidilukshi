@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **UI/UX designer**
+- 🌱 I’m currently learning **QA Engineering**
 
 - 📫 How to reach me **sandaminidilukshi@gmail.com**
 
