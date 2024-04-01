@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **QA Engineering**
+- 🌱 I’m currently learning **QA/SE Engineering**
 
 - 📫 How to reach me **sandaminidilukshi@gmail.com**
 
