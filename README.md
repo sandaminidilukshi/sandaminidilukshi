@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandamini Dilukshi.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I'm Sandamini Dilukshi, Undergraduate Of Department of Industrial Management - University of Kelaniya.</h3>
+<h3 align="center">I'm Sandamini Dilukshi, Fresh Graduate Of Department of Industrial Management - University of Kelaniya.</h3>
 
 
 
